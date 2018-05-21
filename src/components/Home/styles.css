@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.header {
+  width: 100%;
+  padding: 15px;
+}
+
+.header span {
+  font-size: 1.5em;
+}
+
+p {
+  padding: 15px;
+}
+
