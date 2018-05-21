@@ -1,9 +1,9 @@
 import { createAction } from 'redux-actions'
 
 const CURRENCY = {
-  INIT: 'CURRENCY_INIT'
+  LIST: 'CURRENCY_LIST'
 }
 
 export default {
-  init: createAction(CURRENCY.INIT),
+  list: createAction(CURRENCY.LIST),
 }

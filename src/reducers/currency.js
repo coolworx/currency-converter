@@ -4,7 +4,7 @@ import actions from '../actions/currency'
 
 
 export default handleActions({
-  [actions.intialize]: (state, action) => {
+  [actions.list]: (state, action) => {
     return { ...state, ...action.payload }
   },
 }, {})
