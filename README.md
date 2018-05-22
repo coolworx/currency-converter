@@ -36,4 +36,4 @@ Also, a user can refresh the currency rates by clicking the "Refresh Currency Ra
 * Use a library like redux-thunk or redux-saga.
 * Preferably use yarn instead of npm
 * Be creative! Make use of currency symbols and any other visual elements and data that may enhance the user experience.
-* If you finish early maybe you can test your components (jest, enzyme).
+* If you finish early maybe you can test your components (jest, enzyme). Responsive design?!
