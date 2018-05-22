@@ -21,7 +21,7 @@ Once the user picks a currency from the drop-down, its conversion rate (against 
 
 Also, a user can refresh the currency rates by clicking the "Refresh Currency Rates" button. This should trigger a new API call and caching of the returned rates.
 
-![UI Mockup]./docs/Currency%20Converter%20Mockup.png "Logo Title Text 1")
+![UI Mockup](./docs/Currency%20Converter%20Mockup.png "UI Mockup")
 
 
 ## Optional
