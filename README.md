@@ -25,7 +25,7 @@ yarn start
 ## Functional Requirements
 In the mockup below the drop-down contains the following currencies: Australian Dollar (AUD), Swiss Franc (CHF), Euro (EUR), British Pound (GBP), Canadian Dollar (CAD), German Mark (DEM) and Brazilian Real (BRL).
 
-Once the user picks a currency from the drop-down, its conversion rate (against the USD) should update to the right. The currency can be saved by clicking the "Save Currency" button. Once saved that currency is added to the list of "Saved Currencies". Thsi list can hold at most 3 items. Saved currency items can be deleted by clicking the corresponding delete button (trash icon) on the right (if you do not find the trash can icon in the UI fraework of your choice, you can use label these buttons "Delete"). If the user tries to save a currency when the list is full, the error message below the "Save Currency" button is displayed.
+Once the user picks a currency from the drop-down, its conversion rate (against the USD) should update to the right. The currency can be saved by clicking the "Save Currency" button. Once saved that currency is added to the list of "Saved Currencies". This list can hold at most 3 items. Saved currency items can be deleted by clicking the corresponding delete button (trash icon) on the right (if you do not find the trash can icon in the UI framework of your choice, you can  label these buttons "Delete"). If the user tries to save a currency when the list is full, the error message below the "Save Currency" button should be displayed.
 
 Also, a user can refresh the currency rates by clicking the "Refresh Currency Rates" button. This should trigger a new API call and caching of the returned rates.
 
