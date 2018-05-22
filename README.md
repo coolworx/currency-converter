@@ -2,8 +2,16 @@
 
 The purpose of this exercise is to create a currency conversion application. The users of this application should be able to choose a currency and have it converted into US dollars.
 
-You will have **two hours** to complete this coding exercise. Before starting you will be provided with an email and phone number of a person who could help with clarifications, should you need any, while coding.
+You will have **two hours** to complete this coding exercise. Before starting you will be provided with an email and phone number of a person who could help with clarifications, should you need any, while taking the test.
 
+After cloning the repository you can install dependencies with
+```
+yarn install
+```
+and start the application with
+```
+yarn start
+```
 
 
 ## Technical Requirements
