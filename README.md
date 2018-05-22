@@ -16,7 +16,7 @@ yarn start
 
 ## Technical Requirements
 
-* Do your work in a new git branch (e.g. feature/[first name])
+* Do your work in a new git branch (e.g. feature/[first name]). After finishing, push your code up into the remote branch.
 * Use a currency conversion service. Go to <a href='https://currencylayer.com/' target='_blank'>currencylayer.com</a>, create an account and subscribe to the free plan. You will be given a key which you will need to pass in all calls to this service's endpoints.
 * Query the endpoints to get the conversion rates and cache the response data. 
 * Use React Redux (it is wired into the application already).
