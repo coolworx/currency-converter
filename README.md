@@ -23,4 +23,4 @@ You will have **two hours** to complete this coding exercise. Before starting yo
 * Use a library like redux-thunk or redux-saga.
 * Preferably use yarn instead of npm
 * Be creative! Make use of currency symbols and any other visual elements and data that may enhance the user experience.
-* If you finish early maybe you can test your components (jest, enzyme).
+* If you finish early maybe you can test your components (jest, enzyme)?!
