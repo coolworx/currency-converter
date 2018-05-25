@@ -1,8 +1,8 @@
 # Awesome Currency Converter
 
-The purpose of this exercise is to create a currency conversion application. The users of this application should be able to choose a currency and have it converted into US dollars.
+The purpose of this exercise is to create a currency conversion web application. The users of this application should be able to choose a currency and have it converted into US dollars.
 
-You will have **two hours** to complete this coding exercise. Before starting you will be provided with an email and phone number of a person who could help with clarifications, should you need any, while taking the test.
+You will have **two hours** to complete this coding exercise. Before starting you will be provided with the contact details of a person who could help with clarifications, should you need any, while taking the test.
 
 After cloning the repository you can install dependencies with
 ```
@@ -16,7 +16,7 @@ yarn start
 
 ## Technical Requirements
 
-* Do your work in a new git branch (e.g. feature/[first name]). After finishing, push your code up into the remote branch.
+* Do your work in a new git branch (e.g. feature/[first name]). After finishing, push your code up to the remote repository.
 * Use a currency conversion service. Go to <a href='https://currencylayer.com/' target='_blank'>currencylayer.com</a>, create an account and subscribe to the free plan. You will be given a key which you will need to pass in all calls to this service's endpoints.
 * Query the endpoints to get the conversion rates and cache the response data. 
 * Use React Redux (it is wired into the application already).
@@ -34,6 +34,6 @@ Also, a user can refresh the currency rates by clicking the "Refresh Currency Ra
 
 ## Optional
 * Use a library like redux-thunk or redux-saga.
-* Preferably use yarn instead of npm
 * Be creative! Make use of currency symbols and any other visual elements and data that may enhance the user experience.
-* If you finish early maybe you can test your components (jest, enzyme). Responsive design?!
+* Should you finish early, maybe you can test your components (using jest, enzyme or any other unit testing tool that you prefer)?! 
+* Responsive design for the interface implementation?!
