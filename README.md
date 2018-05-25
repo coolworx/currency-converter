@@ -35,5 +35,5 @@ Also, a user can refresh the currency rates by clicking the "Refresh Currency Ra
 ## Optional
 * Use a library like redux-thunk or redux-saga.
 * Be creative! Make use of currency symbols and any other visual elements and data that may enhance the user experience.
-* Should you finish early, maybe you can test your components (using jest, enzyme or any other unit testing tool that you prefer)?! 
-* Responsive design for the interface implementation?!
+* Should you finish early, maybe you can test your components (use jest, enzyme or any other unit testing framework that you prefer)
+* Responsive design for the interface implementation
