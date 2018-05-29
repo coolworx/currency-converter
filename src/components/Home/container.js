@@ -14,12 +14,9 @@ const mapDispatchToProps = (dispatch) => {
   // const currency = bindActionCreators(currencyActions, dispatch);
 
   return {
-    // onSplitterMoved: (data) => {
-    //   ui.mainSplitterMoved(data)
+    // onCurrencyList: (data) => {
+    //   currency.list(data)
     // },
-    // onWindowResize: (data) => {
-    //   ui.setDocking(data)
-    // }
   }
 }
 
